@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">SorteioNrosBingo</string>
+    <string name="app_name">Sorteio Nros Bingo</string>
+    <string name="clique_abaixo_para_sortear_um_numero">Clique abaixo para sortear um número</string>
+    <string name="sortear">Sortear!</string>
+    <string name="clique_no_botao_para_reiniciar_o_bingo">Clique no botão para reiniciar o bingo</string>
+    <string name="resetar">Resetar</string>
+    <string name="numeros_sorteados">Números sorteados:</string>
 </resources>
